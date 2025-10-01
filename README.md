@@ -6,7 +6,9 @@ This project is a **Retrieval-Augmented Generation (RAG)** application built usi
 
 The goal is to provide an easy-to-use interface for querying research papers or documents without manually reading through them, making research and knowledge extraction faster and more efficient.
 
-![RAG App Interface](https://github.com/achraf-bogryn/RAG_DOCUMENT_Q-A/raw/main/screenshot.png)
+
+<!-- Add introduction image here -->
+![Introduction Image](images/introduction.png)
 
 ---
 
@@ -20,6 +22,9 @@ This application solves this problem by:
 - Creating **vector embeddings** of documents for semantic search.
 - Using a **state-of-the-art LLM** to generate accurate answers based on retrieved document content.
 - Presenting answers in a **clean and readable interface**.
+
+<!-- Add problem statement image here -->
+![Problem Statement Image](images/problem_statement.png)
 
 ---
 
@@ -115,3 +120,4 @@ This application solves this problem by:
 ## License
 
 This project is licensed under the MIT License.
+
