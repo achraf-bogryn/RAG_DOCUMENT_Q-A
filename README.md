@@ -8,7 +8,7 @@ The goal is to provide an easy-to-use interface for querying research papers or 
 
 
 <!-- Add introduction image here -->
-![Introduction Image](images/introduction.png)
+![Introduction Image](images/app.PNG)
 
 ---
 
@@ -24,7 +24,7 @@ This application solves this problem by:
 - Presenting answers in a **clean and readable interface**.
 
 <!-- Add problem statement image here -->
-![Problem Statement Image](images/problem_statement.png)
+![Problem Statement Image](images/RAG.webp)
 
 ---
 
@@ -120,4 +120,5 @@ This application solves this problem by:
 ## License
 
 This project is licensed under the MIT License.
+
 
